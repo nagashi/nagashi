@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nagashi
-- 👀 I’m interested in SQL, Functional Programming, Rust language.
-- 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on Rust
+- 👀 I’m interested in SQL, Neo4j, Functional Programming..Haskell, Rust language.
+- 🌱 I’m currently learning Haskell
+- 💞️ I’m looking to collaborate on Haskell
 - 📫 How to reach me ceoriley@gmail.com
 
 <!---
