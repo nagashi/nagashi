@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chas
+- 👋 Hi, I’m Charles
 - 👀 I’m interested in the crossroad between software and mobility.
 - 🌱 I’m currently learning Haskell
 - 💞️ I’m looking to collaborate on how software can enhance movility.
