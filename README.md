@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Charles
-- 👀 I’m interested in the crossroad between software and mobility.
+- 👀 I’m interested in software-defined mobility solutions.
 - 🌱 I’m currently learning Haskell
 - 💞️ I’m looking to collaborate on how software can enhance movility.
 - 📫 How to reach me ceoriley@gmail.com
