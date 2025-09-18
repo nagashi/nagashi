@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Charles
 - 👀 I’m interested in software-defined mobility solutions.
 - 🌱 I’m currently learning Haskell
-- 💞️ I’m looking to collaborate on how software can enhance movility.
+- 💞️ I’m looking to collaborate on how software can enhance mobility.
 - 📫 How to reach me ceoriley@gmail.com
 
 <!---
